@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm Sundaresan, a 3rd-year student in Bachelor of Engineering (Computer Science and Engineering) with a keen interest in Artificial Intelligence and Machine Learning. I'm currently based in Chennai, Tamil Nadu, India. Welcome to my GitHub!
+Hi there! 👋 I'm Sundaresan, a final year student in Bachelor of Engineering (Computer Science and Engineering) with a keen interest in Artificial Intelligence and Machine Learning. I'm currently based in Chennai, Tamil Nadu, India. Welcome to my GitHub!
 
 ## 🌱 What I'm Learning
 
